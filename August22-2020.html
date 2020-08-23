@@ -18,17 +18,41 @@
             bottom: 10px;
 
         }
+
+        #searchbar {
+            position: absolute;
+            top: 50px;
+            right: 50px;
+        }
+
+        section {
+            position: relative;
+        }
+        
     </style>
 
 </head>
 
 <body>
 
-    <body>
-        <h1>My Favorite Anime</h1>
-        <h2>Ao Haru Ride</h2>
-        <p>I highly recommend this anime to those who love watching romance and school related. </p>
-    </body>
+
+    <h1>My Favorite Anime</h1>
+    <h2>Ao Haru Ride</h2>
+    <p>I highly recommend this anime to those who love watching romance and school related. </p>
+
+    <div>
+        <section>
+            <form id="searchbar">
+                <label for="search">Search:</label>
+                <input type="search" id="search" name="search">
+                <input type="submit" name="submit" value="Go!">
+            </form>
+        </section>
+
+
+    </div>
+
+
 
 
 </body>
