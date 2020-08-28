@@ -1,51 +1,79 @@
 <!DOCTYPE html>
 
 <html>
+
 <head>
 
-<style>
-    div {
-        height: 40px;
-        width: 20%;
-        background: black;
-        margin: 50px auto;
-        border-radius: 5px;
-        position: relative;
-      }
-    
-      #rect {
-        animation-name: rainbow;
-        animation-duration: 4s;
-      }
-    
-      @keyframes rainbow {
-        0% {
-          background-color: pink;
-          left: 0px;
-    
+    <style>
+        div {
+            height: 40px;
+            width: 20%;
+            background: black;
+            margin: 50px auto;
+            border-radius: 5px;
+            position: relative;
         }
-        50% {
-          background-color: lavender;
-          top: 50px;
-    
+
+        #rect {
+            animation-name: rainbow;
+            animation-duration: 4s;
         }
-        100% {
-          background-color: yellow;
-          left: -25px;
-    
+
+        @keyframes rainbow {
+            0% {
+                background-color: pink;
+                left: 0px;
+
+            }
+
+            50% {
+                background-color: lavender;
+                top: 50px;
+
+            }
+
+            100% {
+                background-color: yellow;
+                left: -25px;
+
+            }
+
+            50% {
+                left: 25px;
+            }
         }
-        50% {
-          left: 25px;
+
+        #ball {
+            width: 70px;
+            height: 10%;
+            margin: 50px auto;
+            position: fixed;
+            left: 20%;
+            top: 200px;
+            border-radius: 50%;
+            background: linear-gradient(35deg,
+                    #ccffff,
+                    #ffcccc);
+            animation-name: fade;
+            animation-duration: 3s;
         }
-      }
-</style>
+
+        @keyframes fade {
+            50% {
+                left: 60%;
+                opacity: 0.1;
+
+            }
+        }
+    </style>
 
 </head>
 
 <body>
 
+    <div id="ball"></div>
     <div id="rect"></div>
-    
+
 </body>
 
 </html>
