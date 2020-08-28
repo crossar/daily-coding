@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<style>
+    div {
+        height: 40px;
+        width: 20%;
+        background: black;
+        margin: 50px auto;
+        border-radius: 5px;
+        position: relative;
+      }
+    
+      #rect {
+        animation-name: rainbow;
+        animation-duration: 4s;
+      }
+    
+      @keyframes rainbow {
+        0% {
+          background-color: pink;
+          left: 0px;
+    
+        }
+        50% {
+          background-color: lavender;
+          top: 50px;
+    
+        }
+        100% {
+          background-color: yellow;
+          left: -25px;
+    
+        }
+        50% {
+          left: 25px;
+        }
+      }
+</style>
+
+</head>
+
+<body>
+
+    <div id="rect"></div>
+    
+</body>
+
+</html>
