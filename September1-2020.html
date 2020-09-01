@@ -53,40 +53,36 @@
 
         .balls {
             border-radius: 50%;
-            background: linear-gradient(35deg,
-                    #ccffff,
-                    #ffcccc);
             position: fixed;
             width: 50px;
             height: 50px;
-            margin-top: 50px;
-            animation-name: bounce;
+            top: 60%;
+            animation-name: jump;
             animation-duration: 2s;
             animation-iteration-count: infinite;
-          
         }
 
-        #ball1 {
-            left: 27%;
-            animation-timing-function: cubic-bezier(0.25, 0.25, 0.75, 0.75);
-            
-
+        #red {
+            background: red;
+            left: 25%;
+            animation-timing-function: linear;
         }
 
-        #ball2 {
-            left: 56%;
+        #blue {
+            background: blue;
+            left: 50%;
             animation-timing-function: ease-out;
-            
-
         }
 
-        @keyframes bounce {
-            0% {
-                top: 0px;
-            }
+        #green {
+            background: green;
+            left: 75%;
+            animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);
+        }
 
-            100% {
-                top: 249px;
+        @keyframes jump {
+            50% {
+                top: 10%;
             }
         }
     </style>
