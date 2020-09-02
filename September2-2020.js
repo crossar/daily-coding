@@ -1,12 +1,10 @@
-// Setup
-var aileen;
-var isay;
-var harrison;
+// My example
+var fruit;
+var veggie;
+var drink;
 
-var aileen = 678;
-var isay = 908;
-var harrison = 423;
+fruit = "apple"
+veggie = "cucumber";
+drink = "I love Boba!";
 
-aileen = harrison
-
-console.log(harrison)
+console.log(fruit, veggie, drink)
