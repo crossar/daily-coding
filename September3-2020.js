@@ -12,3 +12,9 @@ var Anniv = 29
 
 var milk = 2.99;
 console.log(milk)
+
+//Multiply
+
+var product = 17.8 * 6.3;
+console.log(product)
+
