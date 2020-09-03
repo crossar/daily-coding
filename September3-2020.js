@@ -7,3 +7,8 @@ var myBudget = 149;
 // Decrement a Number with Javascript
 var Anniv = 29
 --Anniv;
+
+//Decimal
+
+var milk = 2.99;
+console.log(milk)
