@@ -65,6 +65,20 @@ var myLastName = "Cross";
 
 console.log(myFirstName, myLastName)
 
+// Escaping Literal Quotes in Strings
+
+var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+
+// should appear like this [I am a "double quoted" string inside "double quotes".]
+
+
+
+// Quoting Strings with Single Quotes
+
+//should appear like this [<a href="http://www.example.com" target="_blank">Link</a>]
+
+var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
 
 
 
