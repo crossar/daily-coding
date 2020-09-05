@@ -15,3 +15,9 @@
 
 var myDog = "Peter\n\t\\Cross\n'TheWiener'";
 console.log(myDog)
+
+// Concatenating Strings with Plus Operator
+
+var myFav = "I love chocolates " + "and green tea."; // Only change this line
+console.log(myFav)
+
