@@ -21,3 +21,9 @@ console.log(myDog)
 var myFav = "I love chocolates " + "and green tea."; // Only change this line
 console.log(myFav)
 
+// Concatenating Strings with the Plus Equals Operator
+
+var Likes = "I like riding a bike. ";
+Likes += "\n\tRiding bike is fun thing to do during summer!\n";
+
+
