@@ -16,3 +16,11 @@ var lastName = "Cross";
 // Last name should be equal to 5
 
 lastNameLength = lastName.length;
+
+// Use Bracket Notation to Find the First Character in a String
+
+var thirdLetterOfLastName = "";
+var lastName = "Cross";
+
+// It should appear as "o"
+thirdLetterOfLastName = lastName[2] 
