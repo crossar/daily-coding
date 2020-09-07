@@ -24,3 +24,13 @@ var lastName = "Cross";
 
 // It should appear as "o"
 thirdLetterOfLastName = lastName[2] 
+
+// Understand String Immutability
+
+// change the whole thing
+var myPhone = "Joogle Pixel";
+myPhone = "Google Pixel";
+
+// only change the first letter
+var myPhone = "Joogle Pixel";
+myPhone[0] = "G";
