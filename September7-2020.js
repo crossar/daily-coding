@@ -36,3 +36,11 @@ myPhone[0] = "G";
 var myPhone = "Joogle Pixel";
 myPhone = "Google Pixel";
 
+// Word Blanks
+
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = "My " + myNoun + " is " + myAdjective + ", he " + myVerb + " very " + myAdverb; // Change this line
