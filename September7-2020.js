@@ -27,10 +27,12 @@ thirdLetterOfLastName = lastName[2]
 
 // Understand String Immutability
 
-// change the whole thing
+// cannot change the value of myPhone.
+var myPhone = "Joogle Pixel";
+myPhone[0] = "G";
+
+
+// This is how to change it
 var myPhone = "Joogle Pixel";
 myPhone = "Google Pixel";
 
-// only change the first letter
-var myPhone = "Joogle Pixel";
-myPhone[0] = "G";
