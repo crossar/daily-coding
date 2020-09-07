@@ -26,4 +26,19 @@ console.log(myFav)
 var Likes = "I like riding a bike. ";
 Likes += "\n\tRiding bike is fun thing to do during summer!\n";
 
+// Constructing Strings with Variables
+
+var myName = "Aileen";
+var myStr = "My name is " + myName + " and I am well! ";
+console.log(myStr)
+
+//  Appending Variables to Strings
+
+var someAdjective = " 'fun', 'exciting', 'awesome' "; 
+var myStr = "Learning to code is";
+myStr += someAdjective;
+
+// Find the Length of a String
+
+
 
