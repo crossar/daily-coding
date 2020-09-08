@@ -6,4 +6,4 @@ var myArray = ["Hershey", 223, "Toblerone", 121 ];
 
 // Nest one Array within Another Array
 
-var myArray = [["Isay", 20], ["Isoy", 17]];
+var myArray = [["Isay", 20], ["Isoy", 18]];
