@@ -25,3 +25,14 @@ var myArray = [["John", 23], ["cat", 2]];
 
 myArray.push(["dog", 3])
 
+// Manipulate Arrays With pop()
+
+// using pop makes the last value off of the end of an array.
+var myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+var removedFromMyArray = myArray.pop();
+
+console.log(myArray) // equals to [["John", 23]
+
+console.log(removedFromMyArray) // equals to ["cat", 2]
