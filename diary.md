@@ -1,3 +1,6 @@
+2020-09-10
+It's my birthday today and it was a busy day
+
 2020-09-06
 I was too busy today to code and I made my asawa do this for me in exchange for me getting water for him =P
 
