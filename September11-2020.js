@@ -26,6 +26,11 @@ var myList = [
     ["Paper Towels", 1]
     ];
 
-// 
+// Write Reusable JavaScript with Functions
+
+function reusableFunction() {
+    console.log("Hi World");
+  }
+  reusableFunction();
 
 
