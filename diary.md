@@ -1,3 +1,6 @@
+2020-09-13 I've been busy doing yard work and general cleaning around the house.
+
+
 2020-09-10
 It's my birthday today and it was a busy day
 
