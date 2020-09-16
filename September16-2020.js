@@ -14,4 +14,13 @@ function addFive() {
 addThree();
 addFive();
 
+// Assignment with a Returned Value
+
+var processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+processed = processArg(7);
 
