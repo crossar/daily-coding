@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<Title>HTML Login Form</Title>
+	<link rel="stylesheet" type="text/css" href="css/login.css">
+</head>
+
+<body>
+
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="img/logo.png">
+			</div>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="shoppinglist.html">Shopping List</a></li>
+				<li><a href="recipes.html">Recipes</a></li>
+				<li><a href="videos.html">Videos</a></li>
+				<li><a href="calendar.html">Calendar</a></li>
+				
+			</ul>
+		</div>
+	</header>
+
+
+
+
+
+	
+	<div class="form-container">
+		<div class="user-img"></div>
+		<ul class="list">
+			<li>
+				<h2>Member Login</h2>
+			</li>
+			<li><input id="username" type="text" name="User Name" placeholder="Username"></li>
+			<li><input id="password" type="password" name="Password" placeholder="........."></li>
+			<li><input type="button" name="Submit" value="Submit" onclick="clickHandler()"></li>
+			<li>Forgot Password?</li>
+		</ul>
+	</div>
+	<script>
+		function login(username, password) {
+			console.log({ username, password });
+			// fake login
+			localStorage.setItem('credentials', JSON.stringify({ username, password }));
+			document.location = './index.html';
+		}
+
+		function clickHandler() {
+			console.log('click happened');
+			const usernameInput = document.querySelector('#username');
+			const passwordInput = document.querySelector('#password');
+
+			const username = usernameInput.value;
+			const password = passwordInput.value;
+			login(username, password);
+		}
+	</script>
+</body>
+
+</html>
