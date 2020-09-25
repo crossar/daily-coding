@@ -1,3 +1,5 @@
+2020-09-24 I'm out of town
+
 2020-09-13 I've been busy doing yard work and general cleaning around the house.
 
 
