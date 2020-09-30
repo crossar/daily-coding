@@ -1,3 +1,5 @@
+2020-09-29 I'm sick today... :( 
+
 2020-09-26 I didn't get to do my check in today, pretty busy with house stuff. 
 
 2020-09-24 I'm out of town
