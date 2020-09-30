@@ -47,3 +47,7 @@ function switchOfStuff(val) {
   
     return answer;
   }
+
+  // Adding a Default Option in Switch Statements
+
+  
