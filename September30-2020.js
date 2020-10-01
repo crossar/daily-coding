@@ -30,7 +30,7 @@ function sequentialSizes(val) {
 
   function chainToSwitch(val) {
     var answer = "";
-    // Only change code below this line
+   
     switch (val) {
       case "bob":
         answer = "Marley";
@@ -48,7 +48,7 @@ function sequentialSizes(val) {
         answer = "Ate Nine";
         break;
     }
-    // Only change code above this line
+ 
     return answer;
   }
   // Change this value to test
