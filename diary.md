@@ -1,3 +1,5 @@
+2020-10-07 I'm not feeling well today... :(
+
 2020-10-04 We're busy decorating for Halloween yay! very tired.. 
 
 2020-09-29 I'm sick today... :( 
@@ -23,4 +25,5 @@ I am still sick today and missed coding exercise
 
 2020-08-29
 I was sick today and missed coding exercise
+
 
