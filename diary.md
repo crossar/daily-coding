@@ -1,3 +1,5 @@
+2020-10-10 I can't do my check in today but I will try tomorrow
+
 2020-10-07 I'm not feeling well today... :(
 
 2020-10-04 We're busy decorating for Halloween yay! very tired.. 
