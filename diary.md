@@ -1,3 +1,6 @@
+2020-10-12 Family Day! not sure if I can do check in today
+ but I'll try. 
+
 2020-10-10 I can't do my check in today but I will try tomorrow
 
 2020-10-07 I'm not feeling well today... :(
@@ -27,5 +30,6 @@ I am still sick today and missed coding exercise
 
 2020-08-29
 I was sick today and missed coding exercise
+
 
 
