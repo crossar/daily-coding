@@ -36,3 +36,7 @@ var myPlants = [
   ];
   
   var secondTree = myPlants[1].list[1]
+
+ 
+
+
