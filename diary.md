@@ -1,3 +1,5 @@
+2020-10-15 Busy day today. 
+
 2020-10-12 Family Day! not sure if I can do check in today
  but I'll try. 
 
