@@ -17,3 +17,13 @@ multiplyAll([
   [3, 4],
   [5, 6, 7],
 ]);
+
+// Iterate with JavaScript Do...While Loops
+
+var myArray = [];
+var i = 10;
+
+do {
+  myArray.push(i);
+  i++;
+} while (i <= 10);
