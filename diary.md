@@ -1,3 +1,5 @@
+2020-10-27 Sick today
+
 2020-10-25 Just Chillin'
 
 2020-10-23 General cleaning
