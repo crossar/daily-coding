@@ -1,3 +1,5 @@
+2020-10-30 Have family visit today
+
 2020-10-28 Still sick
 
 2020-10-27 Sick today
