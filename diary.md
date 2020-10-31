@@ -1,3 +1,13 @@
+2020-10-30 Have family visit today
+
+2020-10-28 Still sick
+
+2020-10-27 Sick today
+
+2020-10-25 Just Chillin'
+
+2020-10-23 General cleaning
+
 2020-10-20 Busy today
 
 2020-10-19 Doctor Appointment today.
