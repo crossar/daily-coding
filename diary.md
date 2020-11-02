@@ -1,3 +1,5 @@
+2020-11-1 Busy today
+
 2020-10-30 Have family visit today
 
 2020-10-28 Still sick
