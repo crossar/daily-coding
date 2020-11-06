@@ -1,3 +1,5 @@
+2020-11-6 oof. I missed my check in last night, -__- I'm still busy working on my webtoon. lol
+
 2020-11-4 busy today
 
 2020-11-3 I'm doing my webtoon story and I'll be busy until I publish one more episode.
